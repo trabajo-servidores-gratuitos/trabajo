@@ -14,7 +14,7 @@
 </h1>
 <img src ="https://static.theceomagazine.net/wp-content/uploads/2018/03/20083547/Cover-story-BIll-Gates_AU0418.jpg" width="500" height="300"  border="3">
 </center>
-<style=”text-align justify">
+
 <font face ="arial" size="5" color="black">
 <p>Bill Gates es uno de los empresarios más extraordinarios de todoslos
 tiempos, gracias a que su revolucionaria mente lo llevó a cambiar el
@@ -24,7 +24,7 @@ mundo en 2 oportunidades:
 <p>
 </P>
 
-<style=”text-align justify">
+
 <ul>
 <LI>Como el friki más influyente del mundo, ayudó a marcar el
 comienzo de la revolución del ordenador personal.
