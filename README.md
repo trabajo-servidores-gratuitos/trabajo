@@ -56,7 +56,7 @@ probablemente, la primera de la lista.
 </ol>
 
 
-<style=”text-align justify">
+
 <p>Es importante tener a alguien de su entera confianza, que este
 totalmente comprometido, que comparta su visión, pero, que
 también tenga un conjunto de habilidades ligeramente diferentes y
